@@ -2,7 +2,7 @@
 
 [![platform](https://img.shields.io/badge/platform-Raspberry--Pi-ff69b4)](https://www.raspberrypi.com/)
 
-Raspberry Pi gpiox library
+Raspberry Pi gpio addon example 
 
 <a href="https://www.buymeacoffee.com/iiot2ka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" height="41" width="174"></a><br>
 If you like my work and find it helpful, please support me.
